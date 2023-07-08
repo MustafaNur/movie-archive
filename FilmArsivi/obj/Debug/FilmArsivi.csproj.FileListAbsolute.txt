@@ -1,0 +1,11 @@
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.AnaForm.resources
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.exe.config
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.exe
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.pdb
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.exe
+C:\Users\Mustafa\source\repos\ProjeFilmArsivi\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.pdb
